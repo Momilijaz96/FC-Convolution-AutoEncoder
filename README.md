@@ -17,5 +17,14 @@ python3 test_autoenc.py #For_inference
 * Trained model is saved as model.pt in the working directory.
 * You can perform infernce to get results, using test_autoenc.py
 
+<h3>Training/Test Loss Curves for Both Modes</h3>
+<h4>Convolutional AutoEncoder</h4>
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/53872365/141714665-6b181515-faf3-4fb2-b612-000472e54178.png'/>
+</p>
 
+<h4>Linear AutoEncoder</h4>
+<p align='center'>
+<img src='https://user-images.githubusercontent.com/53872365/141714738-19b23fdd-8fcb-4bbc-9116-49b86f664946.png'/>
+</p>
 
