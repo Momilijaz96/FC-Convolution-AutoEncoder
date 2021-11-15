@@ -24,6 +24,6 @@ python3 test_autoenc.py #For_inference
 <p align='center'>
 <img src='https://user-images.githubusercontent.com/53872365/141714665-6b181515-faf3-4fb2-b612-000472e54178.png' width="350" height="300" alt>
 <img src='https://user-images.githubusercontent.com/53872365/141714738-19b23fdd-8fcb-4bbc-9116-49b86f664946.png' width="350" height="300"alt>
-The green line reflects test whereas the blue line reflects the training loss for the respective modes for the autoencoders training over MNIST digit recreation using MSE loss.
 </p>
+The green line reflects test whereas the blue line reflects the training loss for the respective modes for the autoencoders training over MNIST digit recreation using MSE loss.
 
