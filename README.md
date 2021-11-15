@@ -9,7 +9,7 @@ This repo offers sample implementation of A Fully connected and convolutional au
 ```
 conda create -n autoencoder python=3.8 #(optional)
 pip install requirements.txt
-
+python3 train_atuoenc.py 
 ```
 
 
