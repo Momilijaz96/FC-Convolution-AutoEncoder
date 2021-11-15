@@ -9,7 +9,13 @@ This repo offers sample implementation of A Fully connected and convolutional au
 ```
 conda create -n autoencoder python=3.8 #(optional)
 pip install requirements.txt
-python3 train_atuoenc.py 
+python3 train_autoenc.py --mode Conv --num_epochs 10 --batch_size 10 --learning_rate 0.1 #Train
+python3 test_autoenc.py #For_inference
 ```
+mod is Conv / Lin depending on you need a Liear encoder.Decoder architecture or Convolutional architecture.
+Creating a conda environment is optional but recomended. 
+Trained model is saved as model.pt in the working directory.
+You can perform infernce to get results, using test_autoenc.py
+
 
 
